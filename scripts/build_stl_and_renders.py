@@ -26,10 +26,10 @@ SIZES = ["8g", "12g"]
 STYLES = [
     (1, "styl1_modern"),
     (2, "styl2_knurled"),
-    (3, "styl3_hexagon"),
-    (4, "styl4_fluted"),
-    (5, "styl5_spiral"),
+    (3, "styl3_fluted"),
+    (4, "styl4_spiral"),
 ]
+
 
 os.makedirs(STL_DIR, exist_ok=True)
 os.makedirs(RENDERS_DIR, exist_ok=True)
