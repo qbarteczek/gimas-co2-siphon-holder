@@ -1,49 +1,47 @@
-# 🍾 Instrukcja Obsługi i Montażu Nabojów CO2 w Syfonie GIMAS
+# 🍾 Krótka instrukcja: jak zrobić bąbelki w syfonie GIMAS
 
-Niniejszy przewodnik opisuje prawidłowy i bezpieczny sposób przygotowywania wody gazowanej przy użyciu syfonu marki **GIMAS** oraz wydrukowanych uchwytów/nakładek na naboje 8g lub 12g.
-
----
-
-## 🛑 Zasady Bezpieczeństwa
-
-1. **Używaj wyłącznie nabojów CO2 przeznaczonych do żywności** (np. naboje 8g lub 12g do syfonów spożywczych).
-2. **Nie używaj nabojów technicznych ani wiatrówkowych** bez atestu spożywczego.
-3. **Nigdy nie odkręcaj uchwytu, gdy w syfonie znajduje się gaz pod ciśnieniem**, a woda nie została opróżniona/odpowietrzona.
-4. **Przechowuj naboje w chłodnym miejscu** (poniżej 50°C), z dala od bezpośredniego światła słonecznego.
+Cześć! Skoro już wydrukowałeś sobie uchwyt, to pora przejść do przyjemniejszej części – robimy wodę gazowaną!
+Syfony **GIMAS** to stare poczciwe sprzęty, ale trzeba pamiętać o paru podstawowych zasadach, żeby cała kuchnia nie latała w powietrzu.
 
 ---
 
-## 🛠️ Krok po Kroku – Przygotowanie Wody Gazowanej
+## 🛑 Ważne sprawy (Bezpieczeństwo przede wszystkim)
 
-### Krok 1: Napełnienie Syfonu Wodą
-- Odkręć głowicę syfonu GIMAS.
-- Napełnij syfon zimną, przefiltrowaną wodą (zimna woda lepiej rozpuszcza CO2).
-- Zwróć uwagę na maksymalny poziom napełnienia (nie przepełniaj syfonu, zostaw przestrzeń gazową).
-- Dokręć mocno głowicę syfonu z rurką i uszczelką.
-
-### Krok 2: Umieszczenie Naboju w Uchwycie
-- Włóż nowy nabój CO2 (8g lub 12g) do wnętrza wydrukowanego uchwytu GIMAS zęzą/szyjką naboju skierowaną do góry (w stronę otworu gwintowanego).
-- Nabój powinien swobodnie wsunąć się do komory uchwytu.
-
-### Krok 3: Wkręcanie Uchwytu i Przebicie Naboju
-- Przyłóż uchwyt z nabojem do gwintu szyjki głowicy syfonu GIMAS.
-- Upewnij się, że gwint M20.7 wchodzi prostopadle i gładko.
-- Dokręcaj uchwyt zgodnie z ruchem wskazówek zegara.
-- Gdy poczujesz opór (iglica dotyka szyjki naboju), **wykonaj szybki, zdecydowany ruch dokręcający**.
-- Usłyszysz syczenie gazu wnikającego do syfonu – dokręć uchwyt do końca, aż syczenie ustanie.
-
-### Krok 4: Mieszanie i Nasycanie
-- Wstrząśnij intensywnie syfonem 10-15 razy. Wstrząsanie wspomaga całkowite rozpuszczenie dwutlenku węgla w wodzie.
-- Odczekaj około 1-2 minuty przed serwowaniem.
-
-### Krok 5: Serwowanie i Wymiana Naboju
-- Naciśnij dźwignię syfonu, nalewając świeżą wodę gazowaną do szklanki.
-- Po opróżnieniu syfonu odkręć uchwyt i usuń zużyty, pusty nabój CO2 (przekaż go do recyklingu metali).
+1. **Używaj tylko nabojów spożywczych** (do wody, a nie do wiatrówek czy pompowania opon w rowerze!). Mają odpowiedni gaz i są czyste.
+2. **Kategorycznie nie otwieraj syfonu**, kiedy jest nagazowany. Zawsze upuść resztkę ciśnienia nad szklanką, zanim cokolwiek odkręcisz.
+3. **Naboje trzymaj w suchym chłodnym miejscu**. Zostawianie ich latem w aucie to słaby pomysł (przy +50°C może być różnie).
 
 ---
 
-## 📏 Różnice Pomiędzy Nabojami 8g a 12g
+## 🛠️ Jedziemy z tematem – krok po kroku
 
-- **Nabój 8g (Standardowy):** Standardowa pojemność dla klasycznych syfonów (ok. 1 litr delikatnie gazowanej wody).
-- **Nabój 12g (Zwiększona pojemność):** Zapewnia wyższe nasycenie (mocniejszy gaz / silniejsze nagazowanie) lub obsługuje większe pojemności syfonów.
-- Uchwyty z niniejszego projektu są dedykowane oddzielnie dla każdej wersji (`gimas_co2_8g_*` oraz `gimas_co2_12g_*`), co gwarantuje idealny docisk osiowy naboju do iglicy syfonu.
+### Krok 1: Woda, zimna i najlepiej z filtra
+- Odkręcasz głowicę syfonu i wlewasz wodę. Pamiętaj: im zimniejsza woda, tym lepsze bąbelki wyjdą (CO2 lepiej rozpuszcza się w zimnym).
+- **Nie dolewaj do pełna!** Wewnątrz musi zostać trochę pustego miejsca dla rozprężającego się gazu, zwykle jest tam specjalna rurka miarkująca.
+- Nakręć główną głowicę mocno z powrotem.
+
+### Krok 2: Czas na nabój
+- Bierzemy nowiutki nabój CO2 (8g lub 12g – zależy jaki wydrukowałeś uchwyt).
+- Wrzucasz go do plastikowego uchwytu szyjką (węższą stroną) do góry, tam gdzie widać gwint.
+
+### Krok 3: Pssst! (Wkręcamy uchwyt)
+- Przyłóż uchwyt do gwintu na syfonie.
+- Wkręcaj prosto (zgodnie ze wskazówkami zegara). Nie używaj siły z samego początku – gwint ma wchodzić leciutko.
+- W pewnym momencie poczujesz mocny opór, bo iglica dotknęła zaślepki naboju. Wtedy **szybkim, dość mocnym ruchem kręcisz dalej**.
+- Usłyszysz głośne "pssssst" – gaz właśnie poleciał do wody. Kręć do oporu, aż syk ucichnie.
+
+### Krok 4: Shake it!
+- Syfon lubi, jak się nim trochę pobuja. Złap go mocno i potrzęś z 10-15 razy. Woda musi ładnie wymieszać się z gazem.
+- Postaw to na 1-2 minuty, daj odpocząć bąbelkom.
+
+### Krok 5: Pijemy na zdrowie
+- Naciskasz wihajster (dźwignię) i woda leci do szklanki!
+- Kiedy woda wyjdzie z gazem całkowicie do dna i nic w syfonie już nie ma ciśnienia, możesz odkręcić plastikowy uchwyt i wyrzucić pusty metalowy nabój na złom/do żółtego kosza.
+
+---
+
+## 📏 8g czy 12g? Krótka różnica
+
+- **Nabój 8g (Klasyk):** Zazwyczaj wystarcza na 1 litr wody. Zrobi z tego przyjemną, lekką wodę gazowaną.
+- **Nabój 12g (Dla fanów mocnego kopa):** Pakujesz więcej gazu – bąble będą szczypać w język znacznie mocniej, albo używasz go jak masz większy syfon.
+- Ważne: nakładki drukujemy pod konkretny nabój! Wersja `8g` ma krótszą lufę, żeby docisnąć mały nabój, a `12g` jest odpowiednio wyższa. Nie mieszaj ich.

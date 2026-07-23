@@ -2,89 +2,89 @@
 
 [![OpenSCAD](https://img.shields.io/badge/OpenSCAD-Parametric-orange.svg)](https://openscad.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![3D Print Ready](https://img.shields.io/badge/3D%20Print-Watertight%20Manifold-brightgreen.svg)]()
+[![3D Print Ready](https://img.shields.io/badge/3D%20Print-Gotowe-brightgreen.svg)]()
 
-Projekt monolitycznych, estetycznych uchwytów/nakładek na naboje CO2 (8g oraz 12g) do klasycznego syfonu do wody gazowanej marki **GIMAS**.
+Cześć! Wrzucam tutaj projekt fajnych, zgrabnych uchwytów (nakładek) na naboje CO2 (te małe 8g i te większe 12g) do klasycznych syfonów **GIMAS**. 
 
-Pliki STL stanowią w 100% zamkniętą, jednolitą bryłę (*Watertight Manifold Geometry*) z nagwintowanym otworem żeńskim **M20.7 x 2.0** idealnie pasującym do metalowej szyjki syfonu oraz półokrągłą kopułą dociskową.
-
----
-
-## 🎨 4 Warianty Estetyczne (4 Unique Styles)
-
-Kolekcja zawiera 4 dopracowane warianty stylistyczne opracowane dla obu pojemności (8g oraz 12g):
-
-| # | Podgląd | Nazwa Stylu | Opis | Cechy i Zalety | Plik STL (8g) | Plik STL (12g) |
-|---|:---:|-------------|------|----------------|---------------|----------------|
-| **1** | <img src="renders/gimas_co2_12g_styl1_modern.png" width="120"> | **Modern Minimalist** | Opływowy, gładki korpus z 2 łopatkami | Ergonomiczny chwyt, łatwy w czyszczeniu | [`8g Modern`](stl/gimas_co2_8g_styl1_modern.stl) | [`12g Modern`](stl/gimas_co2_12g_styl1_modern.stl) |
-| **2** | <img src="renders/gimas_co2_12g_styl2_knurled.png" width="120"> | **Industrial Knurled** | Radełkowane pionowe żebra chwytne | Surowy wygląd narzędziowy, pewny chwyt mokrą dłonią | [`8g Knurled`](stl/gimas_co2_8g_styl2_knurled.stl) | [`12g Knurled`](stl/gimas_co2_12g_styl2_knurled.stl) |
-| **3** | <img src="renders/gimas_co2_12g_styl3_fluted.png" width="120"> | **Retro Fluted** | Klasyczne wzdłużne żłobienia vintage | Stylistyka nawiązująca do syfonów z lat 70. | [`8g Fluted`](stl/gimas_co2_8g_styl3_fluted.stl) | [`12g Fluted`](stl/gimas_co2_12g_styl3_fluted.stl) |
-| **4** | <img src="renders/gimas_co2_12g_styl4_spiral.png" width="120"> | **Ergonomic Spiral** | Skręcone spiralnie żebra prowadzące | Naturalne dokręcanie zgodnie z ruchem dłoni | [`8g Spiral`](stl/gimas_co2_8g_styl4_spiral.stl) | [`12g Spiral`](stl/gimas_co2_12g_styl4_spiral.stl) |
+Pliki STL to jedna, spójna bryła (watertight) z wbudowanym gwintem **M20.7 x 2.0**, który pasuje prosto do metalowej szyjki syfonu. Od góry jest zaokrąglona czapeczka, żeby nabój ładnie siedział i dociskał iglicę.
 
 ---
 
-## 📚 Poradniki i Dokumentacja (Guides & Tutorials)
+## 🎨 4 Wyglądy do wyboru
 
-W katalogu [`docs/`](docs/) znajdują się szczegółowe poradniki i instrukcje:
+Mamy tu 4 opcje stylistyczne, każda dla wersji 8g i 12g:
 
-1. 🖨️ **[Poradnik Druku 3D (3D Printing Tutorial)](docs/TUTORIAL_3D_PRINTING.md)**
-   - Ustawienia slicera (PrusaSlicer, Bambu Studio, OrcaSlicer, Cura).
-   - Dobór filamentu (PETG, ASA, PLA) i wytrzymałość gwintu M20.7.
-   - Orientacja druku bez użycia podpór (*no supports*).
-
-2. 🛠️ **[Poradnik Modyfikacji OpenSCAD (Customization Guide)](docs/TUTORIAL_OPENSCAD_CUSTOMIZATION.md)**
-   - Parametryzacja modelu w `scad/gimas_co2_holder.scad`.
-   - Zmiana czcionki i wytłaczanych napisów.
-   - Kompilacja z wiersza poleceń (CLI) i automatyzacja w Pythonie.
-
-3. 🍾 **[Instrukcja Obsługi Syfonu GIMAS (Siphon Usage Guide)](docs/SIPHON_USAGE_GUIDE.md)**
-   - Krok po kroku: napełnianie, wkręcanie, nasycanie gazem CO2 i serwowanie.
-   - Bezpieczeństwo i zalecenia eksploatacyjne.
+| # | Jak wygląda | Nazwa | O co chodzi? | Plik STL (8g) | Plik STL (12g) |
+|---|:---:|-------------|------|---------------|----------------|
+| **1** | <img src="renders/gimas_co2_12g_styl1_modern.png" width="120"> | **Modern Minimalist** | Gładziutki z dwoma łopatkami | Dobrze leży w łapie, łatwo umyć | [`8g Modern`](stl/gimas_co2_8g_styl1_modern.stl) | [`12g Modern`](stl/gimas_co2_12g_styl1_modern.stl) |
+| **2** | <img src="renders/gimas_co2_12g_styl2_knurled.png" width="120"> | **Industrial Knurled** | Nacięte paski wzdłuż | Super chwyt, nawet jak masz mokre ręce | [`8g Knurled`](stl/gimas_co2_8g_styl2_knurled.stl) | [`12g Knurled`](stl/gimas_co2_12g_styl2_knurled.stl) |
+| **3** | <img src="renders/gimas_co2_12g_styl3_fluted.png" width="120"> | **Retro Fluted** | Klasyczne, głębsze rowki | Wygląda jak stare syfony z lat 70. | [`8g Fluted`](stl/gimas_co2_8g_styl3_fluted.stl) | [`12g Fluted`](stl/gimas_co2_12g_styl3_fluted.stl) |
+| **4** | <img src="renders/gimas_co2_12g_styl4_spiral.png" width="120"> | **Ergonomic Spiral** | Zakręcony świderek | Wygodnie się dokręca | [`8g Spiral`](stl/gimas_co2_8g_styl4_spiral.stl) | [`12g Spiral`](stl/gimas_co2_12g_styl4_spiral.stl) |
 
 ---
 
-## 🖨️ Szybkie Zalecenia Druku 3D
+## 📚 Gdzie szukać pomocy?
+
+W folderze [`docs/`](docs/) wrzuciłem kilka poradników:
+
+1. 🖨️ **[Poradnik Druku 3D](docs/TUTORIAL_3D_PRINTING.md)**
+   - Jak to pociąć w slicerze (Prusa, Bambu, Cura).
+   - Z czego drukować (spoiler: PETG wymiata), żeby gwint nie strzelił.
+   - Jak ustawić to na stole (podpowiem: bez podpór!).
+
+2. 🛠️ **[Poradnik Modyfikacji w OpenSCAD](docs/TUTORIAL_OPENSCAD_CUSTOMIZATION.md)**
+   - Jak bawić się suwakami w `scad/gimas_co2_holder.scad`.
+   - Jak dodać własny tekst na boku.
+   - Jak odpalić skrypty, jak wolisz klepać w terminalu.
+
+3. 🍾 **[Instrukcja do Syfonu GIMAS](docs/SIPHON_USAGE_GUIDE.md)**
+   - Krótka ściąga, jak ładować gaz i nie zrobić w kuchni powodzi.
+
+---
+
+## 🖨️ Drukujemy (szybka ściąga)
 
 > [!TIP]
-> **Skrócone parametry druku:**
-> - **Orientacja:** Dnem do dołu (gwint z góry, ułatwione chłodzenie otwarcia gwintowanego).
-> - **Wysokość warstwy:** `0.16 mm` lub `0.20 mm`.
-> - **Liczba obrysów (Walls / Perimeters):** Minimum **4 - 5** (dla pełnej sztywności gwintu M20.7).
-> - **Wypełnienie (Infill):** `25% - 30%` (Gyroid lub 3D Honeycomb).
-> - **Supporty (Wsporniki):** **BRAK** (kąty fazowania oraz wewnętrzny gwint i kopuła są zaprojektowane do druku bez podpór).
-> - **Materiał:** **PETG** (rekomendowany) lub **ASA/ABS**.
+> **Na szybko:**
+> - **Pozycja:** Dnem do dołu (gwint na górze).
+> - **Warstwa:** `0.16 mm` (dla ładnego gwintu) albo `0.20 mm`.
+> - **Obrysy (Walls):** Dajcie co najmniej **4-5**, żeby gwint wytrzymał wkręcanie!
+> - **Wypełnienie:** `25% - 30%` (Gyroid robi robotę).
+> - **Podpory:** **Wyłącz**, szkoda plastiku, wydrukuje się ładnie bez tego.
+> - **Filament:** **PETG** to król w tym przypadku, ewentualnie ASA/ABS.
 
 ---
 
-## 🛠️ Budowanie i Parametryzacja w OpenSCAD
+## 🛠️ Zabawa z OpenSCADem
 
-Kod źródłowy w [`scad/gimas_co2_holder.scad`](scad/gimas_co2_holder.scad) jest w pełni parametryczny.
+Plik [`scad/gimas_co2_holder.scad`](scad/gimas_co2_holder.scad) to czysty kod, możesz zmieniać co chcesz.
 
-### Generowanie z wiersza poleceń:
+### Jak zrzucić model z konsoli:
 ```bash
-# Wygenerowanie wersji 8g w stylu Minimalist:
+# Szybki 8g Modern:
 openscad -D 'size="8g"' -D 'style=1' -o stl/gimas_co2_8g_styl1_modern.stl scad/gimas_co2_holder.scad
 
-# Wygenerowanie wersji 12g w stylu Knurled:
+# Albo 12g w prążki:
 openscad -D 'size="12g"' -D 'style=2' -o stl/gimas_co2_12g_styl2_knurled.stl scad/gimas_co2_holder.scad
 ```
 
-### Automatyczny skrypt budujący:
+### Chcesz machnąć wszystko na raz?
+Mamy skrypt w Pythonie:
 ```bash
 python3 scripts/build_stl_and_renders.py
 ```
 
 ---
 
-## 📐 Wymiary Techniczne
+## 📐 Wymiary i technikalia
 
-- **Gwint:** M20.7 x 2.0 (metryczny wewnętrzny profil syfonowy)
-- **Długość całkowita 8g:** 73.0 mm (średnica zewnętrzna 30.0 mm)
-- **Długość całkowita 12g:** 90.0 mm (średnica zewnętrzna 30.0 mm)
-- **Zwieńczenie:** Gładka zaokrąglona kopuła dociskająca nabój do iglicy syfonu.
+- **Gwint:** M20.7 x 2.0 (taki nietypowy, ale w syfonach siedzi idealnie).
+- **Całkowita długość 8g:** 73.0 mm (szerokość to 30.0 mm).
+- **Całkowita długość 12g:** 90.0 mm (szerokość ta sama).
+- **Góra:** Zaokrąglona czapeczka, która bezpiecznie dopycha nabój do iglicy.
 
 ---
 
 ## 📜 Licencja
 
-Ten projekt dostępny jest na licencji [MIT](LICENSE).
+Bawcie się dobrze, projekt jest na licencji [MIT](LICENSE).
