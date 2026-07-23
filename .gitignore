@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .temp/
 *.tmp
+temp_*
+raw_*
+render_*
+FIXED_*
