@@ -16,10 +16,10 @@ Mamy tu 4 opcje stylistyczne, każda dla wersji 8g i 12g:
 
 | # | Jak wygląda | Nazwa | O co chodzi? | Plik STL (8g) | Plik STL (12g) |
 |---|:---:|-------------|------|---------------|----------------|
-| **1** | <img src="renders/gimas_co2_12g_styl1_modern.png" width="120"> | **Modern Minimalist** | Gładziutki z dwoma łopatkami | Dobrze leży w łapie, łatwo umyć | [`8g Modern`](stl/gimas_co2_8g_styl1_modern.stl) | [`12g Modern`](stl/gimas_co2_12g_styl1_modern.stl) |
-| **2** | <img src="renders/gimas_co2_12g_styl2_knurled.png" width="120"> | **Industrial Knurled** | Nacięte paski wzdłuż | Super chwyt, nawet jak masz mokre ręce | [`8g Knurled`](stl/gimas_co2_8g_styl2_knurled.stl) | [`12g Knurled`](stl/gimas_co2_12g_styl2_knurled.stl) |
-| **3** | <img src="renders/gimas_co2_12g_styl3_fluted.png" width="120"> | **Retro Fluted** | Klasyczne, głębsze rowki | Wygląda jak stare syfony z lat 70. | [`8g Fluted`](stl/gimas_co2_8g_styl3_fluted.stl) | [`12g Fluted`](stl/gimas_co2_12g_styl3_fluted.stl) |
-| **4** | <img src="renders/gimas_co2_12g_styl4_spiral.png" width="120"> | **Ergonomic Spiral** | Zakręcony świderek | Wygodnie się dokręca | [`8g Spiral`](stl/gimas_co2_8g_styl4_spiral.stl) | [`12g Spiral`](stl/gimas_co2_12g_styl4_spiral.stl) |
+| **1** | <img src="renders/gimas_co2_12g_styl1_modern.png" width="120"> | **Modern Minimalist** | Gładziutki z dwoma łopatkami, dobrze leży w łapie, łatwo umyć | [`8g Modern`](stl/gimas_co2_8g_styl1_modern.stl) | [`12g Modern`](stl/gimas_co2_12g_styl1_modern.stl) |
+| **2** | <img src="renders/gimas_co2_12g_styl2_knurled.png" width="120"> | **Industrial Knurled** | Nacięte paski wzdłuż, super chwyt, nawet jak masz mokre ręce | [`8g Knurled`](stl/gimas_co2_8g_styl2_knurled.stl) | [`12g Knurled`](stl/gimas_co2_12g_styl2_knurled.stl) |
+| **3** | <img src="renders/gimas_co2_12g_styl3_fluted.png" width="120"> | **Retro Fluted** | Klasyczne, głębsze rowki. Wygląda jak stare syfony z lat 70. | [`8g Fluted`](stl/gimas_co2_8g_styl3_fluted.stl) | [`12g Fluted`](stl/gimas_co2_12g_styl3_fluted.stl) |
+| **4** | <img src="renders/gimas_co2_12g_styl4_spiral.png" width="120"> | **Ergonomic Spiral** | Zakręcony świderek, wygodnie się dokręca | [`8g Spiral`](stl/gimas_co2_8g_styl4_spiral.stl) | [`12g Spiral`](stl/gimas_co2_12g_styl4_spiral.stl) |
 
 ---
 
